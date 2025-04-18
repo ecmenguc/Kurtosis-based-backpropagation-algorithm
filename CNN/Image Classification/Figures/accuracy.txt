@@ -1,0 +1,141 @@
+
+epoch =
+
+     1
+
+Accuracy is 0.959600
+Accuracy is 0.971700
+
+epoch =
+
+     2
+
+Accuracy is 0.965000
+Accuracy is 0.975700
+
+epoch =
+
+     3
+
+Accuracy is 0.969500
+Accuracy is 0.981200
+
+epoch =
+
+     4
+
+Accuracy is 0.973500
+Accuracy is 0.986200
+
+epoch =
+
+     5
+
+Accuracy is 0.975400
+Accuracy is 0.989800
+
+epoch =
+
+     6
+
+Accuracy is 0.978500
+Accuracy is 0.991700
+
+epoch =
+
+     7
+
+Accuracy is 0.980800
+Accuracy is 0.992800
+
+epoch =
+
+     8
+
+Accuracy is 0.982500
+Accuracy is 0.993900
+
+epoch =
+
+     9
+
+Accuracy is 0.984400
+Accuracy is 0.995000
+
+epoch =
+
+    10
+
+Accuracy is 0.986300
+Accuracy is 0.995500
+
+epoch =
+
+    11
+
+Accuracy is 0.987600
+Accuracy is 0.996300
+
+epoch =
+
+    12
+
+Accuracy is 0.988600
+Accuracy is 0.996700
+
+epoch =
+
+    13
+
+Accuracy is 0.989800
+Accuracy is 0.997200
+
+epoch =
+
+    14
+
+Accuracy is 0.991000
+Accuracy is 0.997700
+
+epoch =
+
+    15
+
+Accuracy is 0.991800
+Accuracy is 0.997700
+
+epoch =
+
+    16
+
+Accuracy is 0.992500
+Accuracy is 0.997900
+
+epoch =
+
+    17
+
+Accuracy is 0.992800
+Accuracy is 0.998200
+
+epoch =
+
+    18
+
+Accuracy is 0.993600
+Accuracy is 0.998200
+
+epoch =
+
+    19
+
+Accuracy is 0.993900
+Accuracy is 0.998300
+
+epoch =
+
+    20
+
+Accuracy is 0.994100
+Accuracy is 0.998600
+>> 
